@@ -5,10 +5,11 @@ Thank you for visiting my profile! Hopefully, you've found my projects reasonabl
 - English 🇬🇧
 
 ### Contact
-
+- Website - https://gf.dev.br/
 - Email - g.fr@tuta.io
 
-### 
+### Other things
+- Blog - https://blog.gf.dev.br/
 
 ### Things I have experience with ✍️
 
