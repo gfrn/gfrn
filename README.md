@@ -11,7 +11,7 @@ Thank you for visiting my profile! Hopefully, you've found my projects reasonabl
 ### Other things
 - Blog - https://blog.gf.dev.br/
 
-### Things I have experience with ✍️
+### Things I have experience with
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
