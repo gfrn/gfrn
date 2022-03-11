@@ -1,15 +1,11 @@
-Thank you for visiting my profile! Hopefully, you've found my projects reasonably useful!
-
 ### Languages
 - Portuguese 🇧🇷
 - English 🇬🇧
 
 ### Contact
 - Website - https://gf.dev.br/
-- Email - g.fr@tuta.io
-
-### Other things
 - Blog - https://blog.gf.dev.br/
+- Email - g.fr@tuta.io
 
 ### Things I have experience with
 
