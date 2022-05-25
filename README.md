@@ -4,7 +4,6 @@
 
 ### Contact
 - Website - https://gf.dev.br/
-- Blog - https://blog.gf.dev.br/
 - Email - g.fr@tuta.io
 
 ### Things I have experience with
