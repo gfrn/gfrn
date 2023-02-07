@@ -2,10 +2,6 @@
 - Portuguese 🇧🇷
 - English 🇬🇧
 
-### Contact
-- Website - https://gf.dev.br/
-- Email - g.fr@tuta.io
-
 ### Things I have experience with
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
